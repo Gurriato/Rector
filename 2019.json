@@ -1,0 +1,510 @@
+[
+    {
+        "Elecciones a Rector 2015 - Primera vuelta": "Resultados provisionales"
+    },
+    {
+        "centros": [
+            {
+                "centro": "Bellas Artes",
+                "mesa": "Bellas Artes - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"44\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"44\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":26,\"2.0\":18},\"% Votos\":{\"1.0\":\"59.09 %\",\"2.0\":\"40.91 %\"}}"
+            },
+            {
+                "centro": "Ciencias Biologicas",
+                "mesa": "CC. Biologicas - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"112\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"12\",\"Votos a candidaturas:\":\"98\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":49,\"2.0\":49},\"% Votos\":{\"1.0\":\"50.00 %\",\"2.0\":\"50.00 %\"}}"
+            },
+            {
+                "centro": "Ciencias de la Documentacion",
+                "mesa": "CC. de la Documentacion - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"22\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"1\",\"Votos a candidaturas:\":\"21\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":11,\"2.0\":10},\"% Votos\":{\"1.0\":\"52.38 %\",\"2.0\":\"47.62 %\"}}"
+            },
+            {
+                "centro": "Ciencias de la Informacion",
+                "mesa": "CC. de la Informacion - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"110\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"99\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":54,\"2.0\":45},\"% Votos\":{\"1.0\":\"54.55 %\",\"2.0\":\"45.45 %\"}}"
+            },
+            {
+                "centro": "Ciencias Economicas y Empresariales",
+                "mesa": "CC. Economicas y Empresariales - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"121\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"22\",\"Votos a candidaturas:\":\"99\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":52,\"2.0\":47},\"% Votos\":{\"1.0\":\"52.53 %\",\"2.0\":\"47.47 %\"}}"
+            },
+            {
+                "centro": "Ciencias Fisicas",
+                "mesa": "CC. Fisicas - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"110\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"14\",\"Votos a candidaturas:\":\"95\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":53,\"2.0\":42},\"% Votos\":{\"1.0\":\"55.79 %\",\"2.0\":\"44.21 %\"}}"
+            },
+            {
+                "centro": "Ciencias Geologicas",
+                "mesa": "CC. Geologicas - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"65\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"1\",\"Votos a candidaturas:\":\"63\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":42,\"2.0\":21},\"% Votos\":{\"1.0\":\"66.67 %\",\"2.0\":\"33.33 %\"}}"
+            },
+            {
+                "centro": "Ciencias Matematicas",
+                "mesa": "CC. Matematicas - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"76\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"67\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":42,\"2.0\":25},\"% Votos\":{\"1.0\":\"62.69 %\",\"2.0\":\"37.31 %\"}}"
+            },
+            {
+                "centro": "Ciencias Politicas y Sociologia",
+                "mesa": "CC. Politicas y Sociologia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"89\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"15\",\"Votos a candidaturas:\":\"72\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":39,\"2.0\":33},\"% Votos\":{\"1.0\":\"54.17 %\",\"2.0\":\"45.83 %\"}}"
+            },
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"157\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"13\",\"Votos a candidaturas:\":\"143\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":83,\"2.0\":60},\"% Votos\":{\"1.0\":\"58.04 %\",\"2.0\":\"41.96 %\"}}"
+            },
+            {
+                "centro": "Comercio y Turismo",
+                "mesa": "Comercio y Turismo - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"17\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"1\",\"Votos a candidaturas:\":\"15\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":12,\"2.0\":3},\"% Votos\":{\"1.0\":\"80.00 %\",\"2.0\":\"20.00 %\"}}"
+            },
+            {
+                "centro": "Derecho",
+                "mesa": "Derecho - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"125\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"5\",\"Votos a candidaturas:\":\"118\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":65,\"2.0\":53},\"% Votos\":{\"1.0\":\"55.08 %\",\"2.0\":\"44.92 %\"}}"
+            },
+            {
+                "centro": "Educacion \u2013 Centro de Formacion del Profesorado",
+                "mesa": "Educacion - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"76\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"66\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":33,\"2.0\":33},\"% Votos\":{\"1.0\":\"50.00 %\",\"2.0\":\"50.00 %\"}}"
+            },
+            {
+                "centro": "Enfermeria, Fisioterapia y Podologia",
+                "mesa": "Enfermeria, Fisioterapia y Podologia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"32\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"28\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":19,\"2.0\":9},\"% Votos\":{\"1.0\":\"67.86 %\",\"2.0\":\"32.14 %\"}}"
+            },
+            {
+                "centro": "Estudios Estadisticos",
+                "mesa": "Estudios Estadisticos - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"32\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"2\",\"Votos a candidaturas:\":\"30\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":26,\"2.0\":4},\"% Votos\":{\"1.0\":\"86.67 %\",\"2.0\":\"13.33 %\"}}"
+            },
+            {
+                "centro": "Farmacia",
+                "mesa": "Farmacia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"150\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"11\",\"Votos a candidaturas:\":\"137\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":76,\"2.0\":61},\"% Votos\":{\"1.0\":\"55.47 %\",\"2.0\":\"44.53 %\"}}"
+            },
+            {
+                "centro": "Filologia",
+                "mesa": "Filologia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"132\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"11\",\"Votos a candidaturas:\":\"118\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":69,\"2.0\":49},\"% Votos\":{\"1.0\":\"58.47 %\",\"2.0\":\"41.53 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"30\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"27\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":19,\"2.0\":8},\"% Votos\":{\"1.0\":\"70.37 %\",\"2.0\":\"29.63 %\"}}"
+            },
+            {
+                "centro": "Geografia e Historia",
+                "mesa": "Geografia e Historia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"127\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"25\",\"Votos a candidaturas:\":\"100\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":58,\"2.0\":42},\"% Votos\":{\"1.0\":\"58.00 %\",\"2.0\":\"42.00 %\"}}"
+            },
+            {
+                "centro": "Informatica",
+                "mesa": "Informatica - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"78\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"74\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":54,\"2.0\":20},\"% Votos\":{\"1.0\":\"72.97 %\",\"2.0\":\"27.03 %\"}}"
+            },
+            {
+                "centro": "Medicina",
+                "mesa": "Medicina - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"140\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"10\",\"Votos a candidaturas:\":\"130\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":69,\"2.0\":61},\"% Votos\":{\"1.0\":\"53.08 %\",\"2.0\":\"46.92 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"133\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"10\",\"Votos a candidaturas:\":\"123\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":76,\"2.0\":47},\"% Votos\":{\"1.0\":\"61.79 %\",\"2.0\":\"38.21 %\"}}"
+            },
+            {
+                "centro": "optica y Optometria",
+                "mesa": "optica y Optometria - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"39\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"39\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":22,\"2.0\":17},\"% Votos\":{\"1.0\":\"56.41 %\",\"2.0\":\"43.59 %\"}}"
+            },
+            {
+                "centro": "Psicologia",
+                "mesa": "Psicologia - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"93\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"6\",\"Votos a candidaturas:\":\"85\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":46,\"2.0\":39},\"% Votos\":{\"1.0\":\"54.12 %\",\"2.0\":\"45.88 %\"}}"
+            },
+            {
+                "centro": "Trabajo Social",
+                "mesa": "Trabajo Social - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"24\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"1\",\"Votos a candidaturas:\":\"23\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":16,\"2.0\":7},\"% Votos\":{\"1.0\":\"69.57 %\",\"2.0\":\"30.43 %\"}}"
+            },
+            {
+                "centro": "Veterinaria",
+                "mesa": "Veterinaria - PD",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"153\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"15\",\"Votos a candidaturas:\":\"138\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":77,\"2.0\":61},\"% Votos\":{\"1.0\":\"55.80 %\",\"2.0\":\"44.20 %\"}}"
+            }
+        ],
+        "sector": "Profesores Doctores de los cuerpos docentes universitarios"
+    },
+    {
+        "centros": [
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - PDI-DC",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"155\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"5\",\"Votos a candidaturas:\":\"150\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":87,\"2.0\":63},\"% Votos\":{\"1.0\":\"58.00 %\",\"2.0\":\"42.00 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - PDI-DC",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"212\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"11\",\"Votos a candidaturas:\":\"199\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":111,\"2.0\":88},\"% Votos\":{\"1.0\":\"55.78 %\",\"2.0\":\"44.22 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PDI-DC",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"152\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"148\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":91,\"2.0\":57},\"% Votos\":{\"1.0\":\"61.49 %\",\"2.0\":\"38.51 %\"}}"
+            },
+            {
+                "centro": "Psicologia",
+                "mesa": "Psicologia - PDI-DC",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"97\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"8\",\"Votos a candidaturas:\":\"89\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":61,\"2.0\":28},\"% Votos\":{\"1.0\":\"68.54 %\",\"2.0\":\"31.46 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - PDI-DC",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"50\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"2\",\"Votos a candidaturas:\":\"48\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":25,\"2.0\":23},\"% Votos\":{\"1.0\":\"52.08 %\",\"2.0\":\"47.92 %\"}}"
+            }
+        ],
+        "sector": "Resto de Personal docente e investigador con dedicacion completa"
+    },
+    {
+        "centros": [
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - PDI-DP",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"79\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"74\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":43,\"2.0\":31},\"% Votos\":{\"1.0\":\"58.11 %\",\"2.0\":\"41.89 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - PDI-DP",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"112\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"5\",\"Votos a candidaturas:\":\"106\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":62,\"2.0\":44},\"% Votos\":{\"1.0\":\"58.49 %\",\"2.0\":\"41.51 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PDI-DP-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"78\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"75\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":40,\"2.0\":35},\"% Votos\":{\"1.0\":\"53.33 %\",\"2.0\":\"46.67 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PDI-DP-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"63\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"60\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":37,\"2.0\":23},\"% Votos\":{\"1.0\":\"61.67 %\",\"2.0\":\"38.33 %\"}}"
+            },
+            {
+                "centro": "Psicologia",
+                "mesa": "Psicologia - PDI-DP",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"93\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"6\",\"Votos a candidaturas:\":\"85\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":46,\"2.0\":39},\"% Votos\":{\"1.0\":\"54.12 %\",\"2.0\":\"45.88 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - PDI-DP",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"38\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"38\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":19,\"2.0\":19},\"% Votos\":{\"1.0\":\"50.00 %\",\"2.0\":\"50.00 %\"}}"
+            }
+        ],
+        "sector": "Resto de Personal docente e investigador con dedicacion parcial"
+    },
+    {
+        "centros": [
+            {
+                "centro": "Bellas Artes",
+                "mesa": "Bellas Artes - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"128\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"116\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":78,\"2.0\":38},\"% Votos\":{\"1.0\":\"67.24 %\",\"2.0\":\"32.76 %\"}}"
+            },
+            {
+                "centro": "Ciencias Biologicas",
+                "mesa": "CC. Biologicas - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"248\",\"Votos nulos:\":\"5\",\"Votos en blanco:\":\"22\",\"Votos a candidaturas:\":\"221\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":140,\"2.0\":81},\"% Votos\":{\"1.0\":\"63.35 %\",\"2.0\":\"36.65 %\"}}"
+            },
+            {
+                "centro": "Ciencias de la Documentacion",
+                "mesa": "CC. de la Documentacion - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"113\",\"Votos nulos:\":\"4\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"109\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":83,\"2.0\":26},\"% Votos\":{\"1.0\":\"76.15 %\",\"2.0\":\"23.85 %\"}}"
+            },
+            {
+                "centro": "Ciencias de la Informacion",
+                "mesa": "CC. de la Informacion - EST-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"375\",\"Votos nulos:\":\"5\",\"Votos en blanco:\":\"16\",\"Votos a candidaturas:\":\"354\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":262,\"2.0\":92},\"% Votos\":{\"1.0\":\"74.01 %\",\"2.0\":\"25.99 %\"}}"
+            },
+            {
+                "centro": "Ciencias de la Informacion",
+                "mesa": "CC. de la Informacion - EST-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"98\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"95\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":67,\"2.0\":28},\"% Votos\":{\"1.0\":\"70.53 %\",\"2.0\":\"29.47 %\"}}"
+            },
+            {
+                "centro": "Ciencias Economicas y Empresariales",
+                "mesa": "CC. Economicas y Empresariales - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"186\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"12\",\"Votos a candidaturas:\":\"171\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":101,\"2.0\":70},\"% Votos\":{\"1.0\":\"59.06 %\",\"2.0\":\"40.94 %\"}}"
+            },
+            {
+                "centro": "Ciencias Fisicas",
+                "mesa": "CC. Fisicas - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"307\",\"Votos nulos:\":\"9\",\"Votos en blanco:\":\"26\",\"Votos a candidaturas:\":\"272\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":204,\"2.0\":68},\"% Votos\":{\"1.0\":\"75.00 %\",\"2.0\":\"25.00 %\"}}"
+            },
+            {
+                "centro": "Ciencias Geologicas",
+                "mesa": "CC. Geologicas - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"168\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"1\",\"Votos a candidaturas:\":\"166\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":154,\"2.0\":12},\"% Votos\":{\"1.0\":\"92.77 %\",\"2.0\":\"7.23 %\"}}"
+            },
+            {
+                "centro": "Ciencias Matematicas",
+                "mesa": "CC. Matematicas - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"388\",\"Votos nulos:\":\"11\",\"Votos en blanco:\":\"17\",\"Votos a candidaturas:\":\"360\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":307,\"2.0\":53},\"% Votos\":{\"1.0\":\"85.28 %\",\"2.0\":\"14.72 %\"}}"
+            },
+            {
+                "centro": "Ciencias Politicas y Sociologia",
+                "mesa": "CC. Politicas y Sociologia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"334\",\"Votos nulos:\":\"39\",\"Votos en blanco:\":\"46\",\"Votos a candidaturas:\":\"249\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":128,\"2.0\":121},\"% Votos\":{\"1.0\":\"51.41 %\",\"2.0\":\"48.59 %\"}}"
+            },
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"238\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"29\",\"Votos a candidaturas:\":\"207\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":113,\"2.0\":94},\"% Votos\":{\"1.0\":\"54.59 %\",\"2.0\":\"45.41 %\"}}"
+            },
+            {
+                "centro": "Comercio y Turismo",
+                "mesa": "Comercio y Turismo - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"97\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"2\",\"Votos a candidaturas:\":\"95\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":80,\"2.0\":15},\"% Votos\":{\"1.0\":\"84.21 %\",\"2.0\":\"15.79 %\"}}"
+            },
+            {
+                "centro": "Derecho",
+                "mesa": "Derecho - EST-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"134\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"131\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":94,\"2.0\":37},\"% Votos\":{\"1.0\":\"71.76 %\",\"2.0\":\"28.24 %\"}}"
+            },
+            {
+                "centro": "Derecho",
+                "mesa": "Derecho - EST-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"153\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"6\",\"Votos a candidaturas:\":\"144\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":86,\"2.0\":58},\"% Votos\":{\"1.0\":\"59.72 %\",\"2.0\":\"40.28 %\"}}"
+            },
+            {
+                "centro": "Educacion \u2013 Centro de Formacion del Profesorado",
+                "mesa": "Educacion - EST-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"134\",\"Votos nulos:\":\"12\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"118\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":98,\"2.0\":20},\"% Votos\":{\"1.0\":\"83.05 %\",\"2.0\":\"16.95 %\"}}"
+            },
+            {
+                "centro": "Educacion \u2013 Centro de Formacion del Profesorado",
+                "mesa": "Educacion - EST-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"159\",\"Votos nulos:\":\"4\",\"Votos en blanco:\":\"5\",\"Votos a candidaturas:\":\"150\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Carrillo\"},\"Votos\":{\"1.0\":120,\"2.0\":30},\"% Votos\":{\"1.0\":\"80.00 %\",\"2.0\":\"20.00 %\"}}"
+            },
+            {
+                "centro": "Enfermeria, Fisioterapia y Podologia",
+                "mesa": "Enfermeria, Fisioterapia y Podologia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"210\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"203\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":121,\"2.0\":82},\"% Votos\":{\"1.0\":\"59.61 %\",\"2.0\":\"40.39 %\"}}"
+            },
+            {
+                "centro": "Estudios Estadisticos",
+                "mesa": "Estudios Estadisticos - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"103\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"2\",\"Votos a candidaturas:\":\"100\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":94,\"2.0\":6},\"% Votos\":{\"1.0\":\"94.00 %\",\"2.0\":\"6.00 %\"}}"
+            },
+            {
+                "centro": "Farmacia",
+                "mesa": "Farmacia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"231\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"7\",\"Votos a candidaturas:\":\"223\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":118,\"2.0\":105},\"% Votos\":{\"1.0\":\"52.91 %\",\"2.0\":\"47.09 %\"}}"
+            },
+            {
+                "centro": "Filologia",
+                "mesa": "Filologia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"343\",\"Votos nulos:\":\"13\",\"Votos en blanco:\":\"12\",\"Votos a candidaturas:\":\"318\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":215,\"2.0\":103},\"% Votos\":{\"1.0\":\"67.61 %\",\"2.0\":\"32.39 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"124\",\"Votos nulos:\":\"13\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"102\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":83,\"2.0\":19},\"% Votos\":{\"1.0\":\"81.37 %\",\"2.0\":\"18.63 %\"}}"
+            },
+            {
+                "centro": "Geografia e Historia",
+                "mesa": "Geografia e Historia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"337\",\"Votos nulos:\":\"9\",\"Votos en blanco:\":\"33\",\"Votos a candidaturas:\":\"295\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":188,\"2.0\":107},\"% Votos\":{\"1.0\":\"63.73 %\",\"2.0\":\"36.27 %\"}}"
+            },
+            {
+                "centro": "Informatica",
+                "mesa": "Informatica - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"259\",\"Votos nulos:\":\"5\",\"Votos en blanco:\":\"7\",\"Votos a candidaturas:\":\"247\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":178,\"2.0\":69},\"% Votos\":{\"1.0\":\"72.06 %\",\"2.0\":\"27.94 %\"}}"
+            },
+            {
+                "centro": "Medicina",
+                "mesa": "Medicina - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"348\",\"Votos nulos:\":\"4\",\"Votos en blanco:\":\"16\",\"Votos a candidaturas:\":\"328\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":181,\"2.0\":147},\"% Votos\":{\"1.0\":\"55.18 %\",\"2.0\":\"44.82 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"112\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"5\",\"Votos a candidaturas:\":\"107\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":67,\"2.0\":40},\"% Votos\":{\"1.0\":\"62.62 %\",\"2.0\":\"37.38 %\"}}"
+            },
+            {
+                "centro": "optica y Optometria",
+                "mesa": "optica y Optometria - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"95\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"4\",\"Votos a candidaturas:\":\"90\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":56,\"2.0\":34},\"% Votos\":{\"1.0\":\"62.22 %\",\"2.0\":\"37.78 %\"}}"
+            },
+            {
+                "centro": "Psicologia",
+                "mesa": "Psicologia - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"185\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"11\",\"Votos a candidaturas:\":\"171\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":89,\"2.0\":82},\"% Votos\":{\"1.0\":\"52.05 %\",\"2.0\":\"47.95 %\"}}"
+            },
+            {
+                "centro": "Trabajo Social",
+                "mesa": "Trabajo Social - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"170\",\"Votos nulos:\":\"18\",\"Votos en blanco:\":\"27\",\"Votos a candidaturas:\":\"125\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":63,\"2.0\":62},\"% Votos\":{\"1.0\":\"50.40 %\",\"2.0\":\"49.60 %\"}}"
+            },
+            {
+                "centro": "Veterinaria",
+                "mesa": "Veterinaria - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"433\",\"Votos nulos:\":\"1\",\"Votos en blanco:\":\"2\",\"Votos a candidaturas:\":\"430\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":412,\"2.0\":18},\"% Votos\":{\"1.0\":\"95.81 %\",\"2.0\":\"4.19 %\"}}"
+            },
+            {
+                "centro": "Centro Felipe II de Aranjuez",
+                "mesa": "Felipe II (Aranjuez) - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"172\",\"Votos nulos:\":\"3\",\"Votos en blanco:\":\"6\",\"Votos a candidaturas:\":\"163\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Calduch\",\"3.0\":\"D\\u00e1maso\",\"4.0\":\"Mor\\u00e1n\",\"5.0\":\"Carrillo\"},\"Votos\":{\"1.0\":132,\"2.0\":11,\"3.0\":10,\"4.0\":10,\"5.0\":0},\"% Votos\":{\"1.0\":\"80.98 %\",\"2.0\":\"6.75 %\",\"3.0\":\"6.13 %\",\"4.0\":\"6.13 %\",\"5.0\":\"0.00 %\"}}"
+            },
+            {
+                "centro": "Centro Adscrito Maria Cristina de El Escorial",
+                "mesa": "Maria Cristina (El Escorial) - EST",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"39\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"3\",\"Votos a candidaturas:\":\"36\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Mor\\u00e1n\",\"3.0\":\"D\\u00e1maso\",\"4.0\":\"Calduch\",\"5.0\":\"Carrillo\"},\"Votos\":{\"1.0\":16,\"2.0\":9,\"3.0\":6,\"4.0\":3,\"5.0\":2},\"% Votos\":{\"1.0\":\"44.44 %\",\"2.0\":\"25.00 %\",\"3.0\":\"16.67 %\",\"4.0\":\"8.33 %\",\"5.0\":\"5.56 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - EST-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"26\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"26\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":22,\"2.0\":4},\"% Votos\":{\"1.0\":\"84.62 %\",\"2.0\":\"15.38 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - EST-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"19\",\"Votos nulos:\":\"0\",\"Votos en blanco:\":\"0\",\"Votos a candidaturas:\":\"19\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":11,\"2.0\":8},\"% Votos\":{\"1.0\":\"57.89 %\",\"2.0\":\"42.11 %\"}}"
+            }
+        ],
+        "sector": "Estudiantes"
+    },
+    {
+        "centros": [
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - PAS-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"315\",\"Votos nulos:\":\"14\",\"Votos en blanco:\":\"30\",\"Votos a candidaturas:\":\"271\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Carrillo\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":157,\"2.0\":114},\"% Votos\":{\"1.0\":\"57.93 %\",\"2.0\":\"42.07 %\"}}"
+            },
+            {
+                "centro": "Ciencias Quimicas",
+                "mesa": "CC. Quimicas - PAS-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"316\",\"Votos nulos:\":\"8\",\"Votos en blanco:\":\"32\",\"Votos a candidaturas:\":\"276\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Carrillo\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":149,\"2.0\":127},\"% Votos\":{\"1.0\":\"53.99 %\",\"2.0\":\"46.01 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - PAS-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"333\",\"Votos nulos:\":\"16\",\"Votos en blanco:\":\"29\",\"Votos a candidaturas:\":\"288\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Carrillo\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":160,\"2.0\":128},\"% Votos\":{\"1.0\":\"55.56 %\",\"2.0\":\"44.44 %\"}}"
+            },
+            {
+                "centro": "Filosofia",
+                "mesa": "Filosofia - PAS-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"325\",\"Votos nulos:\":\"17\",\"Votos en blanco:\":\"25\",\"Votos a candidaturas:\":\"283\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Carrillo\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":164,\"2.0\":119},\"% Votos\":{\"1.0\":\"57.95 %\",\"2.0\":\"42.05 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PAS-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"207\",\"Votos nulos:\":\"8\",\"Votos en blanco:\":\"14\",\"Votos a candidaturas:\":\"185\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":98,\"2.0\":87},\"% Votos\":{\"1.0\":\"52.97 %\",\"2.0\":\"47.03 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PAS-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"221\",\"Votos nulos:\":\"4\",\"Votos en blanco:\":\"14\",\"Votos a candidaturas:\":\"203\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":106,\"2.0\":97},\"% Votos\":{\"1.0\":\"52.22 %\",\"2.0\":\"47.78 %\"}}"
+            },
+            {
+                "centro": "Odontologia",
+                "mesa": "Odontologia - PAS-3",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"219\",\"Votos nulos:\":\"6\",\"Votos en blanco:\":\"14\",\"Votos a candidaturas:\":\"199\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":105,\"2.0\":94},\"% Votos\":{\"1.0\":\"52.76 %\",\"2.0\":\"47.24 %\"}}"
+            },
+            {
+                "centro": "Psicologia",
+                "mesa": "Psicologia - PAS",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"131\",\"Votos nulos:\":\"4\",\"Votos en blanco:\":\"18\",\"Votos a candidaturas:\":\"109\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Goyache\",\"2.0\":\"Andradas\"},\"Votos\":{\"1.0\":64,\"2.0\":45},\"% Votos\":{\"1.0\":\"58.72 %\",\"2.0\":\"41.28 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - PAS-1",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"190\",\"Votos nulos:\":\"2\",\"Votos en blanco:\":\"13\",\"Votos a candidaturas:\":\"175\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":89,\"2.0\":86},\"% Votos\":{\"1.0\":\"50.86 %\",\"2.0\":\"49.14 %\"}}"
+            },
+            {
+                "centro": "Rectorado",
+                "mesa": "Rectorado - PAS-2",
+                "recuento": "{\"1\":{\"Escrutado:\":\"100 %\",\"Votos contabilizados:\":\"184\",\"Votos nulos:\":\"6\",\"Votos en blanco:\":\"9\",\"Votos a candidaturas:\":\"169\"}}",
+                "votos": "{\"Candidatura\":{\"1.0\":\"Andradas\",\"2.0\":\"Goyache\"},\"Votos\":{\"1.0\":88,\"2.0\":81},\"% Votos\":{\"1.0\":\"52.07 %\",\"2.0\":\"47.93 %\"}}"
+            }
+        ],
+        "sector": "Personal de Administracion y Servicios"
+    }
+]
